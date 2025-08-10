@@ -12,7 +12,9 @@ The script can also be used with your own data.
 ### Sample Usage:
 
 python dna.py databases/large.csv sequences/5.txt
+
 Lavender
 
 python dna.py databases/small.csv sequences/15.txt
+
 No match.
